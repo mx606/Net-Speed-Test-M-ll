@@ -8,7 +8,7 @@ let mbSpeedEl = document.getElementById("mbs");
 let infoEl = document.getElementById("info");
 let runBtn = document.getElementById("runBtn");
 
-let numTests = 3; // number of tests to average
+let numTests = 5; // number of tests to average
 let currentTest = 0;
 let totals = { bits: 0, kb: 0, mb: 0 };
 
@@ -114,4 +114,5 @@ window.addEventListener("load", () => {
 
     // Optionally start automatically once on load
     // runTest();
+
 });
