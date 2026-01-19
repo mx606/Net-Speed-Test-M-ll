@@ -14,8 +14,8 @@ body{
     background: linear-gradient(#27272a 50%, #eca200 50%);
 }
 .container{
-    width: 450px;
-    height: 650px;
+    width: 350px;
+    height: 550px;
     background: #fff;
     border-radius: 18px;
     box-shadow: 0 0 20px rgba(0,0,0,1);
@@ -50,4 +50,5 @@ p{
 span{
     font-weight: 600;
     color: #090931;
+
 }
