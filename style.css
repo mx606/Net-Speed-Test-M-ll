@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(#27272a 50%, #eca200 50%);
+    background: linear-gradient(#27272a 50%, #bca200 50%);
 }
 .container{
     width: 350px;
@@ -52,3 +52,4 @@ span{
     color: #090931;
 
 }
+
