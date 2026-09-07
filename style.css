@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(#22626a 50%, #baa200 50%);
+    background: linear-gradient(#22626a 50%, #aaa200 50%);
 }
 .container{
     width: 350px;
